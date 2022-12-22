@@ -1,0 +1,42 @@
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-red {
+    color: red;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+.fs-32 {
+    font-size: 32px;
+}
+
+.fs-64 {
+    font-size: 64px;
+}
+
+.c-red {
+    color:#dd3333
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    color: rgb(17, 88, 48);
+}
+
+h2,h3{
+    color: rgb(44, 153, 91);
+}
+
+a{
+    color:rgb(255, 153, 1) ;
+}
+
